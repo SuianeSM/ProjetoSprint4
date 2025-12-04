@@ -45,4 +45,5 @@ Ao final, você terá:
 Simples, direto ao ponto e pronto pra evoluir se você quiser expandir depois.
 
 **Conclusão**
+
 Analisando os valores dos planos já era possível perceber uma grande diferença na receita e em ambos os testes de hipóteses confirmam que os planos possuem diferenças significativas tanto quando comparando por usuários, tanto quando comparando por região. O plano Surf embora seja mais barato não tem uma boa franquia e os excedentes são caros tornando a receita muito variável para a operadora. Já o Ultimate mesmo com custo mais alto é mais compensativo devido a franquia e aos excedentes mais baratos. Em geral, somente analisando a receita utilizando gráficos não era possível identificar qual plano é mais vantajoso e até em alguns casos era possível verificar comportamentos semelhantes. Com isso, percebe-se a importância da realização dos testes de hipóteses
